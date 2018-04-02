@@ -50,27 +50,27 @@
         <td></td>
     </tr>
     <tr>
-        <td>https://github.com/cyberfire/tensorflow-mtcnn</td>
-        <td>C++</td>
-        <td>tensorflow</td>
-        <td></td>
-    </tr>
-    <tr>
         <td>https://github.com/wowo200/MTCNN</td>
         <td>C++</td>
         <td>caffe</td>
         <td></td>
     </tr>
     <tr>
-        <td>https://github.com/happynear/MTCNN_face_detection_alignment</td>
-        <td>C++</td>
-        <td>caffe, matlab</td>
+        <td>https://github.com/cyberfire/tensorflow-mtcnn</td>
+        <td>C++ / python</td>
+        <td>tensorflow</td>
         <td></td>
     </tr>
     <tr>
         <td>https://github.com/AlphaQi/MTCNN-light</td>
         <td>C++</td>
         <td>opencv, openblas</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>https://github.com/happynear/MTCNN_face_detection_alignment</td>
+        <td>C++</td>
+        <td>caffe, matlab, Pdollar toolbox</td>
         <td></td>
     </tr>
     <tr>
