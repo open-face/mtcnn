@@ -52,7 +52,19 @@
     <tr>
         <td>https://github.com/wowo200/MTCNN</td>
         <td>C++</td>
-        <td>caffe</td>
+        <td>caffe, opencv</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>https://github.com/foreverYoungGitHub/MTCNN</td>
+        <td>C++</td>
+        <td>caffe, opencv</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>https://github.com/blankWorld/MTCNN-Accelerate-Onet</td>
+        <td>C++</td>
+        <td>caffe, opencv</td>
         <td></td>
     </tr>
     <tr>
