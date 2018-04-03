@@ -70,7 +70,7 @@
     <tr>
         <td>https://github.com/cyberfire/tensorflow-mtcnn</td>
         <td>C++ / python</td>
-        <td>tensorflow</td>
+        <td>tensorflow, opencv</td>
         <td></td>
     </tr>
     <tr>
