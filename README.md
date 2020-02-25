@@ -14,6 +14,12 @@
         <td>the most popular</td>
     </tr>
     <tr>
+        <td>https://github.com/AITTSMD/MTCNN-Tensorflow</td>
+        <td>python</td>
+        <td>tensorflow, opencv</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>https://github.com/pangyupo/mxnet_mtcnn_face_detection</td>
         <td>python</td>
         <td>mxnet, opencv</td>
